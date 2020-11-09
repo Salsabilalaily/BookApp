@@ -1,4 +1,4 @@
 Simple BookApp use Google API
 
 Output:
-<img src="images/1.png" width="500">
+<img src="image/1.png" width="500">
